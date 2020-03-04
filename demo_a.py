@@ -2,5 +2,5 @@
     功能:a
 """
 
-print("hello wolrd")
+print("hello world")
 
